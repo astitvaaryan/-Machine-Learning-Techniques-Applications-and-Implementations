@@ -7,7 +7,7 @@ This repository showcases projects completed during the "Machine Learning" cours
 - **Objective**: Gain a deep understanding of decision trees by developing them from foundational principles.
 - **Application**: Applied the constructed decision trees to classification tasks, enhancing comprehension of their fundamental principles and practical applications.
 
-### 2. Activity Recognition Using Time Series Data
+### 2. Human Activity Recognition Using Time Series Data
 - **Objective**: Preprocess time series data to visualize and classify human activities like walking, running, etc.
 - **Methods Used**:
   - **Decision Trees and Random Forests**: Applied for classification tasks.
